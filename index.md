@@ -14,7 +14,7 @@
   <div id="modal-content"></div>
 </div>
 
-<script src="JS/veg3.js">
+<script src="JS/veg3.js" type="text/javascript">
 
 </script>
 </body>
