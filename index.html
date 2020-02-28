@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<link rel="stylesheet" type="text/css" href="http://localhost:8080/html/css/style_main.css">
+<link rel="stylesheet" type="text/css" href="https://github.com/dmeats/JavaScript-Vegetable-Planner-app/tree/master/html/css">
 <title>Veg planner</title>
 
 </head>
