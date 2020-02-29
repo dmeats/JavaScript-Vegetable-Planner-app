@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<link rel="stylesheet" type="text/css" href="http://localhost:8080/html/css/style_main.css">
+<link rel="stylesheet" type="text/css" href="../html/css/style_main.css">
 <title>Veg planner</title>
 
 </head>
@@ -14,7 +14,7 @@
   <div id="modal-content"></div>
 </div>
 
-<script src="JS/veg3.js">
+<script src="JS/veg3.js" type="text/javascript">
 
 </script>
 </body>
