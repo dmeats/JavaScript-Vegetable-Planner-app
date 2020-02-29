@@ -454,7 +454,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 	//topright panel images------------------------------------------------------------------
 	
 	var beets = document.createElement("IMG");
-					beets.setAttribute("src","/images/beets2.png");
+					beets.setAttribute("src","images/beets2.png");
 					beets.setAttribute("width","50px");
 					beets.setAttribute("height","50px");
 					beets.setAttribute("alt","beets");
@@ -469,7 +469,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					toprightpanelcounter = toprightpanelcounter + 1;
 				
 	var cherrytomatos = document.createElement("IMG");
-					cherrytomatos.setAttribute("src","/images/cherrytomatos.png");
+					cherrytomatos.setAttribute("src","images/cherrytomatos.png");
 					cherrytomatos.setAttribute("width","50px");
 					cherrytomatos.setAttribute("height","50px");
 					cherrytomatos.setAttribute("alt","cherrytomatos");
@@ -484,7 +484,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					toprightpanelcounter = toprightpanelcounter + 1;
 					
 	var tomato = document.createElement("IMG");
-					tomato.setAttribute("src","/images/tomato.png");
+					tomato.setAttribute("src","images/tomato.png");
 					tomato.setAttribute("width","50px");
 					tomato.setAttribute("height","50px");
 					tomato.setAttribute("alt","tomato");
@@ -499,7 +499,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					toprightpanelcounter = toprightpanelcounter + 1;
 	
 	var Bellpepper = document.createElement("IMG");
-					Bellpepper.setAttribute("src","/images/Bell_pepper.png");
+					Bellpepper.setAttribute("src","images/Bell_pepper.png");
 					Bellpepper.setAttribute("width","50px");
 					Bellpepper.setAttribute("height","50px");
 					Bellpepper.setAttribute("alt","Bellpepper");
@@ -514,7 +514,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					toprightpanelcounter = toprightpanelcounter + 1;
 					
 	var redpepper = document.createElement("IMG");
-					redpepper.setAttribute("src","/images/Red_pepper.png");
+					redpepper.setAttribute("src","images/Red_pepper.png");
 					redpepper.setAttribute("width","50px");
 					redpepper.setAttribute("height","50px");
 					redpepper.setAttribute("alt","redpepper");
@@ -529,7 +529,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					toprightpanelcounter = toprightpanelcounter + 1;
 	
 	var imagefile3 = document.createElement("IMG");
-					imagefile3.setAttribute("src","/images/carrot.png");
+					imagefile3.setAttribute("src","images/carrot.png");
 					imagefile3.setAttribute("width","50px");
 					imagefile3.setAttribute("height","50px");
 					imagefile3.setAttribute("alt","carrot");
@@ -544,7 +544,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					toprightpanel.appendChild(imagefile3);
 					
 	var Snappea = document.createElement("IMG");
-					Snappea.setAttribute("src","/images/Snap_pea.png");
+					Snappea.setAttribute("src","images/Snap_pea.png");
 					Snappea.setAttribute("width","50px");
 					Snappea.setAttribute("height","50px");
 					Snappea.setAttribute("alt","Snappea");
@@ -559,7 +559,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					toprightpanel.appendChild(Snappea);
 	
 	var cucumber = document.createElement("IMG");
-					cucumber.setAttribute("src","/images/cucumber.png");
+					cucumber.setAttribute("src","images/cucumber.png");
 					cucumber.setAttribute("width","50px");
 					cucumber.setAttribute("height","50px");
 					cucumber.setAttribute("alt","cucumber");
@@ -574,7 +574,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					toprightpanel.appendChild(cucumber);
 	
 	var cauliflower = document.createElement("IMG");
-					cauliflower.setAttribute("src","/images/cauliflower.png");
+					cauliflower.setAttribute("src","images/cauliflower.png");
 					cauliflower.setAttribute("width","50px");
 					cauliflower.setAttribute("height","50px");
 					cauliflower.setAttribute("alt","cauliflower");
@@ -589,7 +589,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					toprightpanel.appendChild(cauliflower);
 					
 	var butternutsquash = document.createElement("IMG");
-					butternutsquash.setAttribute("src","/images/butternutsquash.png");
+					butternutsquash.setAttribute("src","images/butternutsquash.png");
 					butternutsquash.setAttribute("width","50px");
 					butternutsquash.setAttribute("height","50px");
 					butternutsquash.setAttribute("alt","butternutsquash");
@@ -604,7 +604,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					toprightpanel.appendChild(butternutsquash);
 	
 	var corn = document.createElement("IMG");
-					corn.setAttribute("src","/images/corn.png");
+					corn.setAttribute("src","images/corn.png");
 					corn.setAttribute("width","50px");
 					corn.setAttribute("height","50px");
 					corn.setAttribute("alt","corn");
@@ -619,7 +619,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					toprightpanel.appendChild(corn);
 	
 	var Zucchini = document.createElement("IMG");
-					Zucchini.setAttribute("src","/images/Zucchini.png");
+					Zucchini.setAttribute("src","images/Zucchini.png");
 					Zucchini.setAttribute("width","50px");
 					Zucchini.setAttribute("height","50px");
 					Zucchini.setAttribute("alt","Zucchini");
@@ -634,7 +634,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					toprightpanel.appendChild(Zucchini);
 					
 	var Spinach = document.createElement("IMG");
-					Spinach.setAttribute("src","/images/Spinach.png");
+					Spinach.setAttribute("src","images/Spinach.png");
 					Spinach.setAttribute("width","50px");
 					Spinach.setAttribute("height","50px");
 					Spinach.setAttribute("alt","Spinach");
@@ -651,7 +651,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					
 	//left panel images ----------------------------------------------------------------------				
 	var redonion = document.createElement("IMG");
-					redonion.setAttribute("src","/images/redonion.png");
+					redonion.setAttribute("src","images/redonion.png");
 					redonion.setAttribute("width","50px");
 					redonion.setAttribute("height","50px");
 					redonion.setAttribute("alt","redonion");
@@ -666,7 +666,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					leftpanelcounter = leftpanelcounter + 1;
 	
 	var onion = document.createElement("IMG");
-					onion.setAttribute("src","/images/onion.png");
+					onion.setAttribute("src","images/onion.png");
 					onion.setAttribute("width","50px");
 					onion.setAttribute("height","50px");
 					onion.setAttribute("alt","onion");
@@ -681,7 +681,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					leftpanelcounter = leftpanelcounter + 1;
 					
 	var green_onion = document.createElement("IMG");
-					green_onion.setAttribute("src","/images/green_onion.png");
+					green_onion.setAttribute("src","images/green_onion.png");
 					green_onion.setAttribute("width","50px");
 					green_onion.setAttribute("height","50px");
 					green_onion.setAttribute("alt","green_onion");
@@ -696,7 +696,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					leftpanelcounter = leftpanelcounter + 1;
 	
 	var Radish = document.createElement("IMG");
-					Radish.setAttribute("src","/images/Radish.png");
+					Radish.setAttribute("src","images/Radish.png");
 					Radish.setAttribute("width","50px");
 					Radish.setAttribute("height","50px");
 					Radish.setAttribute("alt","Radish");
@@ -711,7 +711,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					leftpanelcounter = leftpanelcounter + 1;
 					
 	var lettuce = document.createElement("IMG");
-					lettuce.setAttribute("src","/images/lettuce.png");
+					lettuce.setAttribute("src","images/lettuce.png");
 					lettuce.setAttribute("width","50px");
 					lettuce.setAttribute("height","50px");
 					lettuce.setAttribute("alt","lettuce");
@@ -726,7 +726,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					leftpanelcounter = leftpanelcounter + 1;
 	
 	var Broccoli = document.createElement("IMG");
-					Broccoli.setAttribute("src","/images/Broccoli.png");
+					Broccoli.setAttribute("src","images/Broccoli.png");
 					Broccoli.setAttribute("width","50px");
 					Broccoli.setAttribute("height","50px");
 					Broccoli.setAttribute("alt","Broccoli");
@@ -741,7 +741,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					leftpanelcounter = leftpanelcounter + 1;
 	
 	var parsnip = document.createElement("IMG");
-					parsnip.setAttribute("src","/images/parsnip.png");
+					parsnip.setAttribute("src","images/parsnip.png");
 					parsnip.setAttribute("width","50px");
 					parsnip.setAttribute("height","50px");
 					parsnip.setAttribute("alt","parsnip");
@@ -756,7 +756,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					leftpanelcounter = leftpanelcounter + 1;
 	
 	var eggplant = document.createElement("IMG");
-					eggplant.setAttribute("src","/images/eggplant.png");
+					eggplant.setAttribute("src","images/eggplant.png");
 					eggplant.setAttribute("width","50px");
 					eggplant.setAttribute("height","50px");
 					eggplant.setAttribute("alt","eggplant");
@@ -771,7 +771,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 					leftpanelcounter = leftpanelcounter + 1;
 	
 	var brusellsprouts = document.createElement("IMG");
-					brusellsprouts.setAttribute("src","/images/brusellsprouts.png");
+					brusellsprouts.setAttribute("src","images/brusellsprouts.png");
 					brusellsprouts.setAttribute("width","50px");
 					brusellsprouts.setAttribute("height","50px");
 					brusellsprouts.setAttribute("alt","brusellsprouts");
@@ -791,7 +791,7 @@ function loadimagesTopanels (topleftpanel,toprightpanel,leftpanel){
 	//top left panel images ---------------------------------------------------------------------				
 	
 var fence = document.createElement("IMG");
-					fence.setAttribute("src","/images/fence.png");
+					fence.setAttribute("src","images/fence.png");
 					fence.setAttribute("width","50px");
 					fence.setAttribute("height","50px");
 					fence.setAttribute("alt","fence");
@@ -804,7 +804,7 @@ var fence = document.createElement("IMG");
 					topleftpanel.appendChild(fence);
 
 var Trellis = document.createElement("IMG");
-					Trellis.setAttribute("src","/images/Trellis.png");
+					Trellis.setAttribute("src","images/Trellis.png");
 					Trellis.setAttribute("width","50px");
 					Trellis.setAttribute("height","50px");
 					Trellis.setAttribute("alt","Trellis");
@@ -817,7 +817,7 @@ var Trellis = document.createElement("IMG");
 					topleftpanel.appendChild(Trellis);						
 	
 	var Horizontal_line = document.createElement("IMG");
-					Horizontal_line.setAttribute("src","/images/Horizontal_line.png");
+					Horizontal_line.setAttribute("src","images/Horizontal_line.png");
 					Horizontal_line.setAttribute("width","50px");
 					Horizontal_line.setAttribute("height","50px");
 					Horizontal_line.setAttribute("alt","Horizontal_line");
@@ -829,7 +829,7 @@ var Trellis = document.createElement("IMG");
 					topleftpanel.appendChild(Horizontal_line);
 	
 	var Vertical_line = document.createElement("IMG");
-					Vertical_line.setAttribute("src","/images/Vertical_line.png");
+					Vertical_line.setAttribute("src","images/Vertical_line.png");
 					Vertical_line.setAttribute("width","50px");
 					Vertical_line.setAttribute("height","50px");
 					Vertical_line.setAttribute("alt","Vertical_line");
@@ -841,7 +841,7 @@ var Trellis = document.createElement("IMG");
 					topleftpanel.appendChild(Vertical_line);
 	
 	var corner_1 = document.createElement("IMG");
-					corner_1.setAttribute("src","/images/corner_1.png");
+					corner_1.setAttribute("src","images/corner_1.png");
 					corner_1.setAttribute("width","50px");
 					corner_1.setAttribute("height","50px");
 					corner_1.setAttribute("alt","corner_1");
@@ -853,7 +853,7 @@ var Trellis = document.createElement("IMG");
 					topleftpanel.appendChild(corner_1);
 					
 	var corner_2 = document.createElement("IMG");
-					corner_2.setAttribute("src","/images/corner_2.png");
+					corner_2.setAttribute("src","images/corner_2.png");
 					corner_2.setAttribute("width","50px");
 					corner_2.setAttribute("height","50px");
 					corner_2.setAttribute("alt","corner_2");
@@ -865,7 +865,7 @@ var Trellis = document.createElement("IMG");
 					topleftpanel.appendChild(corner_2);
 	
 	var corner_3 = document.createElement("IMG");
-					corner_3.setAttribute("src","/images/corner_3.png");
+					corner_3.setAttribute("src","images/corner_3.png");
 					corner_3.setAttribute("width","50px");
 					corner_3.setAttribute("height","50px");
 					corner_3.setAttribute("alt","corner_3");
@@ -877,7 +877,7 @@ var Trellis = document.createElement("IMG");
 					topleftpanel.appendChild(corner_3);
 	
 	var corner_4 = document.createElement("IMG");
-					corner_4.setAttribute("src","/images/corner_4.png");
+					corner_4.setAttribute("src","images/corner_4.png");
 					corner_4.setAttribute("width","50px");
 					corner_4.setAttribute("height","50px");
 					corner_4.setAttribute("alt","corner_4");
