@@ -16,6 +16,6 @@
 
 <script src="JS/veg3.js" type="text/javascript">
 
-</script>
+
 </body>
-</html> 
+</html> </script>
